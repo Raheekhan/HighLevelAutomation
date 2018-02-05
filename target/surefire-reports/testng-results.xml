@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Automation" duration-ms="71943" started-at="2018-01-24T22:55:05Z" finished-at="2018-01-24T22:56:17Z">
+    <groups>
+    </groups>
+    <test name="Firefox Local 3" duration-ms="27064" started-at="2018-01-24T22:55:05Z" finished-at="2018-01-24T22:55:32Z">
+      <class name="test.Tests">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:test.Tests@5b529706]" name="setUp" is-config="true" duration-ms="14899" started-at="2018-01-24T17:55:05Z" finished-at="2018-01-24T17:55:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testing01()[pri:0, instance:test.Tests@5b529706]" name="testing01" duration-ms="11378" started-at="2018-01-24T17:55:20Z" finished-at="2018-01-24T17:55:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing01 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.Tests@5b529706]" name="tearDown" is-config="true" duration-ms="233" started-at="2018-01-24T17:55:32Z" finished-at="2018-01-24T17:55:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.Tests -->
+    </test> <!-- Firefox Local 3 -->
+    <test name="Chrome Local 2" duration-ms="51833" started-at="2018-01-24T22:55:05Z" finished-at="2018-01-24T22:55:57Z">
+      <class name="test.Tests">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:test.Tests@2a79d4b1]" name="setUp" is-config="true" duration-ms="16433" started-at="2018-01-24T17:55:05Z" finished-at="2018-01-24T17:55:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testing01()[pri:0, instance:test.Tests@2a79d4b1]" name="testing01" duration-ms="35233" started-at="2018-01-24T17:55:21Z" finished-at="2018-01-24T17:55:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing01 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.Tests@2a79d4b1]" name="tearDown" is-config="true" duration-ms="120" started-at="2018-01-24T17:55:56Z" finished-at="2018-01-24T17:55:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.Tests -->
+    </test> <!-- Chrome Local 2 -->
+    <test name="Chrome Local 1" duration-ms="46856" started-at="2018-01-24T22:55:05Z" finished-at="2018-01-24T22:55:52Z">
+      <class name="test.Tests">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:test.Tests@2e554a3b]" name="setUp" is-config="true" duration-ms="16371" started-at="2018-01-24T17:55:05Z" finished-at="2018-01-24T17:55:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testing01()[pri:0, instance:test.Tests@2e554a3b]" name="testing01" duration-ms="30283" started-at="2018-01-24T17:55:21Z" finished-at="2018-01-24T17:55:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing01 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.Tests@2e554a3b]" name="tearDown" is-config="true" duration-ms="135" started-at="2018-01-24T17:55:51Z" finished-at="2018-01-24T17:55:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.Tests -->
+    </test> <!-- Chrome Local 1 -->
+    <test name="Firefox Local 4" duration-ms="71921" started-at="2018-01-24T22:55:05Z" finished-at="2018-01-24T22:56:17Z">
+      <class name="test.Tests">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:test.Tests@3f390d63]" name="setUp" is-config="true" duration-ms="14970" started-at="2018-01-24T17:55:05Z" finished-at="2018-01-24T17:55:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testing01()[pri:0, instance:test.Tests@3f390d63]" name="testing01" duration-ms="56225" started-at="2018-01-24T17:55:20Z" finished-at="2018-01-24T17:56:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing01 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.Tests@3f390d63]" name="tearDown" is-config="true" duration-ms="261" started-at="2018-01-24T17:56:16Z" finished-at="2018-01-24T17:56:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.Tests -->
+    </test> <!-- Firefox Local 4 -->
+  </suite> <!-- Test Automation -->
+</testng-results>
